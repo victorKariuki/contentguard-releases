@@ -1,13 +1,13 @@
 {
   "name": "ContentGuard",
-  "version": "0.5.8-beta",
+  "version": "0.5.9-beta",
   "author": "Kariuki Victor",
   "author_homepage": "https://github.com/victorKariuki",
   "requires": "6.0",
   "tested": "6.7",
   "requires_php": "8.0",
-  "download_url": "https://raw.githubusercontent.com/victorKariuki/contentguard-releases/main/contentguard-v0.5.8-beta.zip",
+  "download_url": "https://raw.githubusercontent.com/victorKariuki/contentguard-releases/main/contentguard-v0.5.9-beta.zip",
   "sections": {
-    "changelog": "### Changed\n- Auto-updates now served via GitHub Pages `update.json` instead of GitHub Releases \u2014 eliminates the auto-generated \"Source code\" zip/tar archives that appear on every GitHub Release page\n- CI pushes the production zip and `update.json` directly to the `contentguard-releases` repo; no GitHub Release is created\n"
+    "changelog": "### Changed\n- Plugin header description updated to accurately describe the plugin\n"
   }
 }
